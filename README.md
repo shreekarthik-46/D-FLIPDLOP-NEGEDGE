@@ -49,12 +49,12 @@ Developed by: Subashree Karthikeyan RegisterNumber:24900650
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![rtl8](https://github.com/user-attachments/assets/3aafc4e6-71d1-4b9f-a1a3-51b94b6651c1)
-
+![rtl8](https://github.com/user-attachments/assets/43aca315-214b-4f39-bbb6-f66662f9595d)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![time8](https://github.com/user-attachments/assets/5d322301-66c7-47f5-b6cb-eeee7dec45c1)
+![time8](https://github.com/user-attachments/assets/9350995b-cd78-4b48-9858-2aecaefbdb1c)
+
 
 
 
